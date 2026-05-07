@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "tr": "Yemek Siparişi",
+      "en": "Food Ordering"
+    },
+    "description": {
+      "tr": "Restaurant sipariş uygulaması, kullanıcıların menüyü görüntüleyip istedikleri ürünleri sepete ekleyerek hızlı ve kolay şekilde sipariş oluşturmasını sağlayan bir sistemdir. Sipariş yönetimi, ürün listeleme ve sepet işlemleriyle kullanıcıya pratik bir restoran deneyimi sunar.",
+      "en": "A restaurant ordering application where users can browse the menu, add products to the cart, and place orders quickly and easily. It offers practical restaurant experience with order management, product listing, and cart operations."
+    },
+    "tags": [
+      "React",
+      "Vercel",
+      "Axios",
+      "Router"
+    ],
+    "src": "https://github.com/gulizaar/TeknolojikYemekler",
+    "image": "site1"
+  },
+  {
+    "id": 2,
+    "title": {
+      "tr": "Yapılacaklar Uygulaması",
+      "en": "To-Do App"
+    },
+    "description": {
+      "tr": "Todo App, kullanıcıların günlük görevlerini kolayca planlayıp yönetebileceği bir görev takip uygulamasıdır.",
+      "en": "Todo App is a task management application where users can plan and manage their daily tasks easily."
+    },
+    "tags": [
+      "React",
+      "Vercel",
+      "Axios",
+      "Router"
+    ],
+    "src": "https://github.com/gulizaar",
+    "image": "site2"
+  },
+  {
+    "id": 3,
+    "title": {
+      "tr": "Portföy Sitesi",
+      "en": "Portfolio Website"
+    },
+    "description": {
+      "tr": "Kişisel portföy projelerimi sergilediğim responsive web sitesi.",
+      "en": "A responsive website where I showcase my personal portfolio projects."
+    },
+    "tags": [
+      "React",
+      "CSS",
+      "Responsive"
+    ],
+    "src": "https://github.com/gulizaar",
+    "image": "site3"
+  },
+  {
+    "id": 4,
+    "title": {
+      "tr": "E-Ticaret Uygulaması",
+      "en": "E-Commerce App"
+    },
+    "description": {
+      "tr": "Kullanıcıların ürünleri inceleyip sepete ekleyebildiği e-ticaret uygulaması.",
+      "en": "An e-commerce application where users can browse products and add them to cart."
+    },
+    "tags": [
+      "React",
+      "Redux",
+      "API"
+    ],
+    "src": "https://github.com/gulizaar",
+    "image": "site3"
+  }
+]

@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #F4F4F4;
+}
+
+body.light {
+  background-color: white;
+  color: black;
+}
+
+body.dark {
+  background-color: #121212;
+  color: white;
+}
+
+/* DEFAULT (desktop) */
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 40px;
+}
+
+/* LEFT = text, RIGHT = image (senin mevcut layout) */
+
+/* 📱 TABLET + MOBILE */
+@media (max-width: 1024px) {
+  .header-content {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  /* FOTO ÖNCE GELSİN */
+  .header-content img {
+    order: -1;
+  }
+}
+
+/* 📱 küçük telefon */
+@media (max-width: 600px) {
+  .header-content {
+    padding: 20px;
+  }
+}
+
+@media (max-width:768px) {
+  footer {
+    flex-direction: column;
+    text-align: center;
+  }
+}
